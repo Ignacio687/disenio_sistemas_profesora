@@ -9,9 +9,9 @@ public class Main {
         alarma.attach(admin);
         alarma.attach(st);
         alarma.attach(comp);
-        Biblioteca bl1 = new Biblioteca();
-        Libro li1 = new Libro("Bueno", "Design Pattern");
+        Libro li1 = new Libro();
         li1.setEstado("MALO");
+        Biblioteca bl1 = new Biblioteca();
         bl1.devuelveLibro(li1);
 
     }

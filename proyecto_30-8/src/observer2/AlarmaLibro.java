@@ -3,7 +3,7 @@ package observer2;
 import java.util.ArrayList;
 
 public class AlarmaLibro implements Subject{
-    private ArrayList<ILibroMalEstado> observadores = new ArrayList<>();
+    private static ArrayList<ILibroMalEstado> observadores = new ArrayList<>();
     @Override
     public void notifyObservers() {
         for (ILibroMalEstado observador: observadores){
