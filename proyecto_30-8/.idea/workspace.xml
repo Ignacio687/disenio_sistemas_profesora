@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ddaef8f-3978-4349-a775-204e9afc6623" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../proyecto23Agosto/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proyecto23Agosto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Equipos/CPU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Equipos/Computadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Equipos/Impresora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proyecto23Agosto/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Persona/Domicilio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Persona/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Vehiculo/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Vehiculo/Garage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Vehiculo/MP3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proyecto23Agosto/src/Vehiculo/Rueda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Administracion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/AlarmaLibro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Biblioteca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Compras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/ILibroMalEstado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Libro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/Administracion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/AlarmaLibro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/Biblioteca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/Compras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/ILibroMalEstado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/Libro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer2/Subject.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2UhoovP1VbsjZmUAdkOzn1dE7pr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ignad/My Drive (i.chaves@alumno.um.edu.ar)/Catedras/Tercer año/Diseño de sistemas",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ddaef8f-3978-4349-a775-204e9afc6623" name="Changes" comment="" />
+      <created>1693401353708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693401353708</updated>
+      <workItem from="1693401354717" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
